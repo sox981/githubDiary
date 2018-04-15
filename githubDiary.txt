@@ -1,0 +1,2 @@
+15/4/2018:
+	githubDiary repo create. Initialize, commit and push practice
