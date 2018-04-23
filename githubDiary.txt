@@ -1,2 +1,4 @@
 15/4/2018:
 	githubDiary repo create. Initialize, commit and push practice
+24/4/2018:
+	cs231n assignment1, knn; looking for TUM housing & flight
