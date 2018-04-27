@@ -2,3 +2,9 @@
 	githubDiary repo create. Initialize, commit and push practice
 24/4/2018:
 	cs231n assignment1, knn; looking for TUM housing & flight
+
+27/42018:
+	cs231n assignment1, solve big problem. 
+	Description: It will cause problems when run the code. 
+	Reason: The original .py in "classifiers" folder is coding with python 2.X. 
+	Solution: Downloading the laste assignment1 repo from others. The .py all coded with python 3.X. 
